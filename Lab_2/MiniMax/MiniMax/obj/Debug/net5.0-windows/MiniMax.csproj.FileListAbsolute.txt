@@ -1,0 +1,72 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.Game.resources
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.GenerateResource.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\refint\MiniMax.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\ref\MiniMax.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.dev.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.Game.resources
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.GenerateResource.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\refint\MiniMax.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.genruntimeconfig.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\ref\MiniMax.dll
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.exe
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.deps.json
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.json
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.dev.json
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.dll
+C:\Code\Lab 2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.pdb
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.AssemblyReference.cache
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.Game.resources
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.GenerateResource.cache
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfoInputs.cache
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfo.cs
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.CoreCompileInputs.cache
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.dll
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\refint\MiniMax.dll
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.pdb
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.genruntimeconfig.cache
+C:\Code\Lab 2\MiniMax\MiniMax\obj\Debug\net5.0-windows\ref\MiniMax.dll
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.exe
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.deps.json
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.json
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.runtimeconfig.dev.json
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.dll
+C:\Code\Lab_2\MiniMax\MiniMax\bin\Debug\net5.0-windows\MiniMax.pdb
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.AssemblyReference.cache
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.Game.resources
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.GenerateResource.cache
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfoInputs.cache
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.AssemblyInfo.cs
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.csproj.CoreCompileInputs.cache
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.dll
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\refint\MiniMax.dll
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.pdb
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\MiniMax.genruntimeconfig.cache
+C:\Code\Lab_2\MiniMax\MiniMax\obj\Debug\net5.0-windows\ref\MiniMax.dll
