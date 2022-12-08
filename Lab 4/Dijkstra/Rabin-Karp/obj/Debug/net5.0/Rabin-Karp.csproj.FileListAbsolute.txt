@@ -1,0 +1,32 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\refint\Rabin-Karp.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Rabin-Karp\obj\Debug\net5.0\ref\Rabin-Karp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.runtimeconfig.dev.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\bin\Debug\net5.0\Rabin-Karp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\refint\Rabin-Karp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\Rabin-Karp.genruntimeconfig.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Rabin-Karp\obj\Debug\net5.0\ref\Rabin-Karp.dll

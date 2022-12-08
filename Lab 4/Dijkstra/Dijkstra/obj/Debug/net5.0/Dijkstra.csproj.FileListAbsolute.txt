@@ -1,0 +1,32 @@
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.exe
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.deps.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.dev.json
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.AssemblyReference.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfoInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfo.cs
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.CoreCompileInputs.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\refint\Dijkstra.dll
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.pdb
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.genruntimeconfig.cache
+D:\Me\University\..GitHub\5th term\Algorithms\Laba 4.1\Dijkstra\Dijkstra\obj\Debug\net5.0\ref\Dijkstra.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.runtimeconfig.dev.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\bin\Debug\net5.0\Dijkstra.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\refint\Dijkstra.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\Dijkstra.genruntimeconfig.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3-4 лаб\Lab 4\Dijkstra\Dijkstra\obj\Debug\net5.0\ref\Dijkstra.dll
