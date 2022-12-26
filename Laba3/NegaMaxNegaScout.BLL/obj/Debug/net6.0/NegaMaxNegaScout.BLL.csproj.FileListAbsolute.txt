@@ -1,0 +1,24 @@
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\refint\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\ref\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\bin\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\refint\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.BLL\obj\Debug\net6.0\ref\NegaMaxNegaScout.BLL.dll

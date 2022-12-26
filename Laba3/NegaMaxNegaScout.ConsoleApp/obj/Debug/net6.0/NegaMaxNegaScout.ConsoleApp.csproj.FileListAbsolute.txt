@@ -1,0 +1,36 @@
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.runtimeconfig.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.CopyComplete
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\refint\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.genruntimeconfig.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\ПІІС 3 лаб\PIIS-labs-main\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\ref\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.deps.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.runtimeconfig.json
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.BLL.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\bin\Debug\net6.0\NegaMaxNegaScout.BLL.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.AssemblyInfo.cs
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.csproj.CopyComplete
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\refint\NegaMaxNegaScout.ConsoleApp.dll
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\NegaMaxNegaScout.ConsoleApp.genruntimeconfig.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\ToDo\NegaMaxNegaScout\NegaMaxNegaScout.ConsoleApp\obj\Debug\net6.0\ref\NegaMaxNegaScout.ConsoleApp.dll
